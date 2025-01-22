@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/relative/path/to/img.jpg?raw=true "My solution")
+![Alt text](./Screenshot.png?raw=true "My solution")
 
 ### Links
 
